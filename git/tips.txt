@@ -1,0 +1,5 @@
+.idea已经被git跟踪删除
+
+先执行 git rm -r --cached .idea
+
+再重新加入.gitignore文件
